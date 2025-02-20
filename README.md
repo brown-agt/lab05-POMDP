@@ -1,7 +1,7 @@
-# CS1440/2440 Lab 4: Lemonade Stand
+# CS1440/2440 Lab 5: Introduction to Partial Observability
 
 ## Introduction
-TODO: Add engaging introduction about the first non-chicken competition that the student's will do ~Exciting~
+This lab serves as a casual introduction to partial observability. You will need to fill in all the TO-DO blocks only in lab05.ipynb. 
 
 ## Setup and Installation
 Follow these steps to set up your environment and install the necessary package for the lab.
