@@ -31,6 +31,7 @@ python3 -m venv .venv
 ```bash
 pip install --upgrade pip
 pip install --upgrade agt-server
+pip install torch
 ```
 
 ## Agent Methods 
